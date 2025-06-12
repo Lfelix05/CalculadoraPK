@@ -34,3 +34,6 @@ Este é um pequeno projeto de calculadora matemática feito em Python para um tr
 - Este projeto é uma demonstração acadêmica e pode não conter todos os recursos de uma calculadora matemática completa.
 - Para sair do programa, basta fechar a janela do terminal ou usar `Ctrl+C`.
 
+---
+
+Projeto desenvolvido apenas para fins acadêmicos.
